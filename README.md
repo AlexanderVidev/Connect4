@@ -8,5 +8,6 @@ Gameplay: Player vs Player, Player vs AI.
 Authentication: Secure login and session management.
 Stats: Tracks wins, losses, and ties.
 Admin Panel: Manage users with sorting and filtering.
+
 Technologies
 C++, PHP, JavaScript, HTML/CSS, MySQL
